@@ -1,6 +1,6 @@
 - Hi, I’m @Torbiee 
-- I’m interested in CyberSecurity and Ethical Hacking
-- I’m currently learning Cyber Security and earning my certs
+- I’m interested in Cybersecurity and Ethical Hacking
+- I’m currently learning Cybersecurity and earning my certs
 
  
 
