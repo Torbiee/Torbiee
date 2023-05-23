@@ -1,4 +1,4 @@
-- Hi, I’m Jack Dockus
+* Jack Dockus *
 - I’m interested in Cybersecurity and Ethical Hacking
 - I’m currently learning Cybersecurity and earning my certs
 
