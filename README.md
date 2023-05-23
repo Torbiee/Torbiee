@@ -1,2 +1,2 @@
-<h1> **Jack Dockus** </h1>
+<h1> <strong>Jack Dockus</strong> </h1>
 
